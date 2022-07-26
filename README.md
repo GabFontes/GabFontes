@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer
   
-  Hi! I'm 18 years old, I'm passionate about technology and everything it has to offer us. I love music, cats and games! I decided to become a programmer because I believe that technology is our future. That's why I became a Web Developer and I keep studying constantly to become a better and better professional.
+  Hi! I'm 19 years old, I'm passionate about technology and everything it has to offer us. I love music, cats and games! I decided to become a programmer because I believe that technology is our future. That's why I became a Web Developer and I keep studying constantly to become a better and better professional.
 
 <h3>Knowledge and Technologies</h3>
 <div>
