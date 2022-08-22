@@ -31,8 +31,8 @@
   <p>My Portfolio: <a href="https://gabfontes.vercel.app/">https://gabfontes.vercel.app/<a/><p/>
    <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabFontes&show_icons=true&theme=gotham" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GabFontes&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabFontes&layout=compact&theme=gotham" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabFontes&layout=compact&theme=github_dark" />
 </a>
